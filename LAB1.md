@@ -29,7 +29,7 @@ exmp.txt:Hello World, Test!
 [50nk31@localhost lab1_test]$ sudo echo "test" | sudo tee /etc/protected.conf
 ```
 ## Результат команды ``` grep "Test" ```
-![Картинка "grep "Test"](https://i.yapx.ru/ZEILj.png)
+![Картинка "grep "Test"](https://i.imgur.com/AYQgx3B.jpeg)
 ## Результат команды ``` ls -li ```
 ![Картинка результата команды ls -li](https://i.imgur.com/L7z2W01.jpeg)
 ## Результат команды ``` find . -name "*.log" ```
